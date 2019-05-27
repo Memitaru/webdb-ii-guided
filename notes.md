@@ -27,7 +27,7 @@ Client <> API (adapter) <> DB(Server)
 
 - create a database
 - add a roles table to the DB
-- Intall knex
+- Intall knex and sqlite3
 - Configure to talk to our database
 - Implement the list all roles
 - List a role by ID
